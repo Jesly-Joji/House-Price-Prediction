@@ -1,2 +1,3 @@
 # House-Price-Prediction
-House Price Prediction using Linear Regression with Scikit-learn and Flask
+House Price Prediction using Linear Regression
+Used HTML,CSS,scikit-learn,Flask
